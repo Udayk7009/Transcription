@@ -4,7 +4,7 @@ import aiohttp
 import time
 
 # Your personal API key
-DEEPGRAM_API_KEY = '24f787255efd3cb8a3a861c987e7811d53c23769'
+DEEPGRAM_API_KEY = 'DEEPGRAM KEY'
 
 # URL for the real-time streaming audio you would like to transcribe
 URL = 'https://2ec802dd47b0.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.944908621410.channel.rVKA2KM5Lunt.m3u8'
